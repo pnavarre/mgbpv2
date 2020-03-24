@@ -11,11 +11,11 @@
 
 #### BibTeX
     @inproceedings{MGBPv2,
-        title     = {MGBPv2: Scaling Up Multi-Grid Back-Projection Networks},
+        title     = {{MGBP}v2: Scaling Up Multi--Grid Back--Projection Networks},
         author    = {Navarrete~Michelini, Pablo and Chen, Wenbin and Liu, Hanwen and Zhu, Dan},
-        booktitle = {The IEEE International Conference on Computer Vision Workshops (ICCVW)},
+        booktitle = {The {IEEE} International Conference on Computer Vision Workshops ({ICCVW})},
         month     = {October},
-        year      = {2019}
+        year      = {2019},
         url       = {https://arxiv.org/abs/1909.12983}
     }
 
@@ -25,7 +25,7 @@
 
 ### AIM-2019 Model Files
 - [BOE-Perceptual **(1<sup>st</sup> place)**](https://www.dropbox.com/s/f2oe2wywczcen02/BOE_Perceptual_CH3_LE5_MU2_BIAS_NOISE1_FE256-192-128-48-9_Filter#K3_mgbp.model) (112.7MB)
-- [BOE-Fidelity **(5<sup>th</sup> place)**](https://www.dropbox.com/s/ox04zd4bjhamq2w/BOE_Fidelity_CH3_LE5_MU2_BIAS_NOISE1_FE256-192-128-48-9_Filter#K357_merge.model) (1.1GMB)
+- [BOE-Fidelity **(5<sup>th</sup> place)**](https://www.dropbox.com/s/ox04zd4bjhamq2w/BOE_Fidelity_CH3_LE5_MU2_BIAS_NOISE1_FE256-192-128-48-9_Filter#K357_merge.model) (1.1GB)
 
 ### Instructions:
 - Download model files using `./download_models.sh` or links above.
